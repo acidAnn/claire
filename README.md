@@ -22,16 +22,16 @@ Each instance in CLAIRE is a sentence from a wikiHow article and five different 
 The clarifications belong to one of four different types:
 * Insertion of implicit references (IMPLICIT REFERENCE):
 	* In the original version of a sentence, there was an implicit reference to a previously mentioned entity. The revision makes this reference explicit.
-        * Example: "Visit the salon's website. Call and ask questions." -> "Call *the salon* and ask questions."
+	* Example: "Visit the salon's website. Call and ask questions." -> "Call *the salon* and ask questions."
 * Resolution of fused head noun phrases (FUSED HEAD):
 	* In the original version, there is a noun phrase where the head noun is missing. The revision adds that noun.
 	* Example: "The container must be exactly the same as the container you used to collect the water." -> "The container must be exactly the same *diameter* as the container you used to collect the water."
 * Completion of noun compounds (ADDED COMPOUND):
    	* The revision adds a compound modifier to a noun to make its meaning more specific.
-        * Example: "Send a card." -> "Send a *reminder* card."
+	* Example: "Send a card." -> "Send a *reminder* card."
 * Resolution of metonymic relations (METONYMIC REFERENCE):
-        * In the original version, a noun is used in a metonymy. The revision makes the particular component or aspect of a noun explicit that is meant.
-        * Example: "Screw each stringer to the deck frame with a drill." -> "Screw each stringer to *the top of* the deck frame with a drill."
+	* In the original version, a noun is used in a metonymy. The revision makes the particular component or aspect of a noun explicit that is meant.
+ 	* Example: "Screw each stringer to the deck frame with a drill." -> "Screw each stringer to *the top of* the deck frame with a drill."
 
 ## Annotations
 Each clarification is annotated with information how plausible it is in the given context.
@@ -58,9 +58,9 @@ For every data split (train, dev, test), there are three seperate TSV files:
 `{split}_scores.tsv` contains the following columns:
 * The identifier, a string that consists of three parts:
 	* it starts with an integer representing the id of the instance
-        * next, there is an underscore
-        * finally, the id of the filler (1 to 5)
-        * e. g. "42_1" stands for the sentence with id 42 with filler 1
+	* next, there is an underscore
+	* finally, the id of the filler (1 to 5)
+	* e. g. "42_1" stands for the sentence with id 42 with filler 1
 * The plausibility score, a float between 1 and 5
 
         
