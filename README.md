@@ -69,4 +69,4 @@ For every data split (train, dev, test), there are three seperate TSV files:
 * The class label that is IMPLAUSIBLE, NEUTRAL or PLAUSIBLE
  
 ## License
-Since wikiHow articles are released under a [Attribution-NonCommerical-Share Alike 3.0 Creative Commons License (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/") (see [wikiHow](https://www.wikihow.com/wikiHow:Creative-Commons) for more information), CLAIRE is also made available under CC BY-NC-SA 3.0.
+Since wikiHow articles are released under a [Attribution-NonCommerical-Share Alike 3.0 Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/) (CC BY-NC-SA 3.0, see [wikiHow](https://www.wikihow.com/wikiHow:Creative-Commons) for more information), CLAIRE is also made available under CC BY-NC-SA 3.0.
