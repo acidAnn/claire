@@ -1,5 +1,5 @@
-# :bulb: claire
-CLAIRE dataset (Clarifying Insertions from Revision Edits) for SemEval-2022 Task 7
+# :bulb: CLAIRE
+**CLA**rifying **I**nsertions from **R**evision **E**dits dataset for SemEval-2022 Task 7
 
 # Contents
 * [Creation Context](https://github.com/acidAnn/claire#creation-context)
