@@ -1,6 +1,13 @@
 # :bulb: claire
 CLAIRE dataset (Clarifying Insertions from Revision Edits) for SemEval-2022 Task 7
 
+# Contents
+* [Creation Context](https://github.com/acidAnn/claire#creation-context)
+* [Data](https://github.com/acidAnn/claire#data)
+* [Annotations](https://github.com/acidAnn/claire#annotations)
+* [Data Format](https://github.com/acidAnn/claire#data-format)
+* [License](https://github.com/acidAnn/claire#license)
+ 
 ## Creation Context
 This dataset was originally created for SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts.
 The organizers of this task were Michael Roth, Talita Anthonio and Anna Sauer at the [Institute for Natural Language Processing, University Stuttgart](https://www.ims.uni-stuttgart.de/).
