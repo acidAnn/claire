@@ -1,6 +1,10 @@
 # :bulb: CLAIRE
 **CLA**rifying **I**nsertions from **R**evision **E**dits dataset for SemEval-2022 Task 7
 
+<p align="center">
+	<img src="https://github.com/acidAnn/claire/blob/main/clarification_task_logo.png" style=" width:16rem ; height:16rem">
+</p>
+
 # Contents
 * [Creation Context](https://github.com/acidAnn/claire#creation-context)
 * [Data](https://github.com/acidAnn/claire#data)
