@@ -11,6 +11,8 @@
 * [Annotations](https://github.com/acidAnn/claire#annotations)
 * [Data Format](https://github.com/acidAnn/claire#data-format)
 * [License](https://github.com/acidAnn/claire#license)
+* [Contact](https://github.com/acidAnn/claire#contact)
+
  
 ## Creation Context
 This dataset was originally created for SemEval-2022 Task 7: Identifying Plausible Clarifications of Implicit and Underspecified Phrases in Instructional Texts.
@@ -74,3 +76,6 @@ For every data split (train, dev, test), there are three seperate TSV files:
  
 ## License
 Since wikiHow articles are released under a [Attribution-NonCommerical-Share Alike 3.0 Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/) (CC BY-NC-SA 3.0, see [wikiHow](https://www.wikihow.com/wikiHow:Creative-Commons) for more information), CLAIRE is also made available under CC BY-NC-SA 3.0.
+
+## Contact
+If you have questions concerning the dataset, you can write a mail to rothml@ims.uni-stuttgart.de.
